@@ -59,3 +59,10 @@ En esta etapa del desafío, nos adentraremos en la interacción con el usuario, 
 ## Historial de Conversiones
 
 Agrega la capacidad de rastrear y mostrar el historial de las últimas conversiones realizadas, brindando a los usuarios una visión completa de sus actividades.
+
+------
+***Desarrollador***
+
+Nicolás Pannunzio - Desarrollador y responsable de la implementación de este proyecto.
+
+*contacto: nicolas.a.pannunzio@gmail.com*
